@@ -16,16 +16,6 @@
 - Graph Data Structures
 - `heapq`, `collections`, and `time`
 
-## 🚀 How to Run
-
-1. Install Python 3.
-2. Clone or download this repository.
-3. Open the project folder in your terminal.
-4. Run:
-
-```bash
-python campus_navigator_pro.py
-```
 
 ## 🧠 Algorithms
 - **Dijkstra:** Finds the shortest total distance.
