@@ -1,4 +1,4 @@
-# 🧭 Campus Navigator Pro
+# 🧭 Campus Navigator 
 
 **Campus Navigator Pro** is a Python-based DAA mini project that finds routes between campus locations using graph algorithms.
 
